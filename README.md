@@ -25,12 +25,16 @@
 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React_Native&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![]()
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -39,6 +43,8 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+  ![](https://img.shields.io/badge/Code-Material--UI-informational?style=flat&logo=Material--UI&logoColor=white&color=4AB197)
   
 
 
