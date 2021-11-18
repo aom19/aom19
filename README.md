@@ -21,7 +21,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning Apollo-Graphql
+- 🌱 I’m currently learning Apollo-Graphql, AWS Services
 - 👯 I’m looking to contribute to open source
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
 - ⚡ Fun fact: I love to play games
