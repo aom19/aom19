@@ -29,6 +29,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+![]()
 
 <details>
 <summary>More Skills</summary>
@@ -37,7 +39,7 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  
 
 
 <!-- <br>
