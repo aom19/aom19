@@ -1,11 +1,11 @@
 # Hi there, I'm Anton <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;A+Passionate+Coder!;A+Passionate+Gamer!">
 </p>
 
-----
+---- -->
 ## Connect with me 
 <br>
 
