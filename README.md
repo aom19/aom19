@@ -1,15 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Anton <img src="https://media.giphy.com/media/9dO6eZxWeDWwM/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## About me 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;A+Passionate+Coder!;A+Passionate+Gamer!">
+</p>
 
+----
+## Connect with me 
+<br>
+
+<a href="https://www.linkedin.com/in/anton-ostopovici-347554120/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="mailto:ostapovici.anton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://steamcommunity.com/profiles/76561198809044062/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
+
+<br><br>
+----
+
+## I'm a Student!!
+
+- 🌱 I’m currently learning Apollo-Graphql
+- 👯 I’m looking to contribute to open source
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
+- ⚡ Fun fact: I love to play games
+<br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 <br>
@@ -34,7 +51,7 @@
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 
-![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197) -->
 
 <details>
 <summary>More Skills</summary>
