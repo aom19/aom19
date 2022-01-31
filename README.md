@@ -28,7 +28,7 @@
 <br>
 <br>
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/aom19">
@@ -36,7 +36,7 @@
 </a>
 
 
-<br>
+<br> -->
 
 ## 💼 Skills
 
