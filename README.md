@@ -4,7 +4,7 @@
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;A+Passionate+Coder!;A+Passionate+Gamer!">
 </p>
-
+<a href="https://steamcommunity.com/profiles/76561198809044062/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 ---- -->
 ## Connect with me 
 <br>
@@ -13,7 +13,7 @@
 
 <a href="mailto:ostapovici.anton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://steamcommunity.com/profiles/76561198809044062/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+
 
 
 <br><br>
