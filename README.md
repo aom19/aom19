@@ -52,6 +52,8 @@
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 <!-- ![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197) -->
 
