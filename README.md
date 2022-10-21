@@ -53,8 +53,7 @@
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=Typescript&logoColor=white&color=4AB197)
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+
 <!-- ![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197) -->
 
 <details>
