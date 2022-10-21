@@ -19,11 +19,11 @@
 <br><br>
 ----
 
-## I'm a Student!!
+## I'm a Full Stack Developer !!
 
-- 🌱 I’m currently learning Angular , AWS Services
+- 🌱 I’m currently exploring TypeScript
 - 👯 I’m looking to contribute to open source
-- 🥅 2022 Goals: Learn more about AWS Services and Django! 🐍
+- 🥅 2022 Goals: Getting comfortable with TypeScript! 🐍
 <!-- - 🥅 2022 Goals: Contribute more to Open Source projects and learn as much as I can -->
 
 
