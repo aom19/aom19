@@ -61,8 +61,16 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+![Rest API](https://img.shields.io/badge/Rest%20API-Developed-brightgreen?style=flat&logo=api)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=flat&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/Redis-In%20Memory%20Data%20Store-red?style=flat&logo=redis&logoColor=white)
+
+
+
 
 ![Code AWS](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4AB197)
+![Code Google Cloud](https://img.shields.io/badge/Code-Google%20Cloud-blue?style=flat&logo=google-cloud&logoColor=white)
+
 
 
 
