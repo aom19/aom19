@@ -64,7 +64,7 @@
 ![Rest API](https://img.shields.io/badge/Rest%20API-Developed-brightgreen?style=flat&logo=api)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange?style=flat&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/Redis-In%20Memory%20Data%20Store-red?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Built%20with-Docker-blue?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 
 
 
