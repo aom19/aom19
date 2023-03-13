@@ -46,17 +46,25 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=Express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NestJs-informational?style=flat&logo=nestjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
+
+![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
+
+![Code AWS](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4AB197)
+
+
 
 <!-- ![](https://img.shields.io/badge/Code--informational?style=flat&logo=&logoColor=white&color=4AB197) -->
 
