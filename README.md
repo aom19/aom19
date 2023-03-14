@@ -57,10 +57,11 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas&logoColor=white)
+<!-- ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-orange?style=flat&logo=beautifulsoup4&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white) -->
 <!-- ![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat&logo=matplotlib&logoColor=white) -->
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-orange?style=flat&logo=beautifulsoup4&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=flat&logo=selenium&logoColor=white)
+
 
 
 
